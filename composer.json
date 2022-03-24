@@ -1,0 +1,18 @@
+{
+  "name": "paata/shipping",
+  "type": "project",
+  "description": "Task for PENA dev. company - Shipping cost calc.",
+  "require": {
+    "php": "7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pena\\": ""
+    }
+  },
+  "config": {
+    "platform": {
+      "php": "7.2"
+    }
+  }
+}
